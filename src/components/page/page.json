@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_page_pages",
+  "info": {
+    "displayName": "Page",
+    "icon": "file",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Meta": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.meta"
+    },
+    "Hero": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.hero"
+    },
+    "url": {
+      "type": "string",
+      "unique": false
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

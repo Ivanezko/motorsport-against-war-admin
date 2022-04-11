@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_bodies",
+  "info": {
+    "displayName": "BigBody",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "body": {
+      "type": "richtext"
+    }
+  }
+}

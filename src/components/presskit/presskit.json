@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_page_presskits",
+  "info": {
+    "displayName": "Presskit",
+    "icon": "file-image",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "richtext"
+    },
+    "description": {
+      "type": "text"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "presskit.presskit-item"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_menus",
+  "info": {
+    "displayName": "Menu",
+    "icon": "clipboard-list",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.link"
+    }
+  }
+}

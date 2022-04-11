@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_galleries",
+  "info": {
+    "displayName": "Gallery",
+    "icon": "images",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "images": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.gallery-image"
+    }
+  }
+}

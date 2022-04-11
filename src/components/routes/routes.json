@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_routes_routes",
+  "info": {
+    "displayName": "Routes",
+    "icon": "external-link-square-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "Items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "routes.routes-item"
+    }
+  }
+}

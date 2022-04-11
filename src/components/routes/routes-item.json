@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_routes_routes_items",
+  "info": {
+    "displayName": "Routes-Item",
+    "icon": "external-link-alt"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "apiUrl": {
+      "type": "string"
+    }
+  }
+}
